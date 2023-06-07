@@ -1,0 +1,69 @@
+Basic Facts
+Course: CMPUT 204 - Algorithms I, Fall 2019 , Section A1
+
+Credits: 3
+
+ Instructor: Jia You (Office: ATH 3-54; CCID: jyou, email subject begin with [CMPUT204-A1]
+     Time and location: MWF 10:00 - 10:50 AM, CSC  B2.
+
+Seminars: 
+F1-sem:    Mondays 17:00 - 17:50  (CSC B10)
+F2-sem:    Tuesdays 12:30 - 13:20 (GSB 859)
+F3-sem:    Wednesdays  11:00-11:50 (V 103)
+Seminars start from the second week of the term. 
+Calendar Description
+3-1s-0. The first of two courses on algorithm design and analysis, with emphasis on fundamentals of searching, sorting, and graph algorithms. Examples include divide and conquer, dynamic programming, greedy methods, together with analysis techniques to estimate program efficiency.
+
+
+
+Prerequisites
+
+CMPUT 115 or 175, CMPUT 272; MATH 113, 114, or 117 or SCI 100.
+
+Note: Without the completion of all of the course's prerequisites you would be at a severe disadvantage in this course. You are strongly advised to establish impeccable knowledge of all of the material taught at the prerequisites. This includes, but isn't limited to: recursion, induction proofs, exponentiation and logarithms, binary representation of integers, logic operations (And, Or, For all, Exists), Boolean functions, and the fundamentals of graph theory (nodes, edges, cycles, trees etc.)
+
+Objectives
+The successful student will be able to present algorithmic ideas, argue correctness and complexity, select appropriate data structures, and design new algorithms.
+
+Topics
+Big-O notation; sorting algorithms; divide and conquer; greedy method; dynamic programming; graphs (search and paths).
+
+Coursework and Evaluation
+6 quizzes at 4.5% each  (total 27%)
+2 term tests at 16% (term test 1) and 17% (term test 2) (total 33%)
+Final exam at 40%
+Seminars will be used for a combination of quizzes, reviews, and exercises. A quiz takes 30 minutes during the seminar time. Here is how it works. We will release a collection of exercises on or before a Friday, which will be used for the quiz for the week after the following Friday, e.g., Exercise 1 will be released on or before Sept 13 for Quiz 1 to be given in the week of Sept 23-25. All exercises come with solutions or hints/sketches of solutions. A quiz consists of questions that are randomly selected from the pool of exercises posted at least one week earlier. The quizzes are closed book/notes.
+Note: Most questions in an Exercise released on a Friday should be covered up to that Friday, so you can study them right away. The Exercise may also contain a smaller number of questions that are related to the following Monday's lecture.  In any case, I will try to make sure that you will have at least one full week to study any topics that may appear in an Exercise. 
+
+There are two term tests, which will be given in class, and a final exam.  There are no homework assignments! Please pay close attention to the following important dates and coverage of materials for tests. The final exam will be cumulative.
+
+Important Dates: 
+Sept 3-6: Week 1, First lecture Sept 3, no seminars in this week.
+Sept 9-13: Week 2, Seminars begin, exercises on correctness; Exercise 1 released on or before Friday for Quiz 1 (similarly for other releases)
+Sept 16-20: Week 3, Review/exercises in seminar
+Sept 23-27: Week 4, Quiz 1
+Sept 30-Oct 4: Week 5, Quiz 2
+Oct 7-11: Week 6, Quiz 3
+Oct 14-18: Week 7, Holiday Monday, Test 1 on Wed. Oct 16 in class room, coverage weeks 1-4, no quiz this week, seminars on Oct 15, 16 canceled.
+Oct 21-25: Week 8, Review/exercises in seminar
+Oct 28-Nov 1: Week 9, Quiz 4
+Nov 4-8: Week 10, Quiz 5 
+Nov 11-15: Week 11,  Holiday + Reading Week, no classes or seminars.
+Nov 18-22: Week 12, Test 2 on Monday Nov 18, coverage weeks 5-10, no quiz this week.
+Nov 25-29: Week 13, Quiz 6
+Dec 2-6: Summary in seminar, last lecture on Dec 6.
+Once a grade (for quizzes, tests or the final) is issued, you have two weeks for appealing.
+
+
+
+Assigning grades
+Final grades will be assigned in accordance with this section of the University Calendar: ``Grades reflect judgement of student achievement made by instructors and must correspond to the associated descriptor. Such a judgement is based on a combination of absolute achievement and relative performance in a class.''  The descriptors are Excellent: A+, A, A-, Good: B+, B, B-, Satisfactory: C+, C, C-, Poor: D+, Minimal Pass: D, Failure: F or F4. Generally, you need at least 50% to pass and at least 90% for A+ and roughly 80's for A's, 70's for B's, 60's for C's, and 50's for  D's. Grades are unofficial until approved by the Department and/or Faculty offering the course.
+
+
+Textbook
+Introduction to Algorithms; Cormen, Leiserson, Rivest and Stein; MIT Press (3rd Edition) 2013. ISBN 978-0262033848. E-book access is available from the course website (in the top box)
+
+Other useful books
+
+Algorithms design: Foundations, Analysis, and Internet examples; Goodrich and Tamassia; Wiley 1st edition (Oct. 15 2001).
+Algorithm design; Kleinberg and Tardos, Pearson; 1 edition (March 16 2005).
